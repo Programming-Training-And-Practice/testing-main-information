@@ -31,7 +31,7 @@
 * Unit Tests.
 * Integration Tests.
 * End-to-End Tests.
-* Performing Tests.
+* Performance Tests.
 
 
 
