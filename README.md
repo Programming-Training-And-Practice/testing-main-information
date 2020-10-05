@@ -13,6 +13,7 @@
 * [General.](#general)
 * [Type of Testing.](#type-of-testing)
 * [Common Testing Frameworks for Java.](#common-testing-frameworks-for-java)
+* [Assertion Frameworks](#assertion-frameworks)
 * [Help.](#help)
 
 
@@ -115,6 +116,20 @@
   * Allows you to launch Docker container from JUnit Tests.
   * Allow you to start databases, message brokers, etc for integration and functional tests.
   * Can be combined with Selenium for testing web applications.
+
+
+
+
+
+## Assertion Frameworks.
+* JUnit 5 will also work with popular assertion frameworks.
+* The Java community has variety of assertions frameworks.
+  * Some generalized.
+  * Others specialized - ie JSON assertions.
+* Popular options.
+  * AssertJ.
+  * Hamcrest.
+  * Truth. 
 
 
 
