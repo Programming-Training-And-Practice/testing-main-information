@@ -9,6 +9,7 @@
 * [Documentation.](#documentation)
 * [JUnit 5.](https://github.com/descriptions-of-it-technologies/junit-5)
 * [Mockito.](https://github.com/descriptions-of-it-technologies/mockito)
+* [Spring Framework Testing.]()
 * [Spring Boot Testing Annotations.](https://github.com/descriptions-of-it-technologies/spring-boot/blob/master/spring-boot-testing-annotations.md)
 * [Integration Testing.](integration-testing.md)
 * [Functional Testing.](functional-testing.md)
