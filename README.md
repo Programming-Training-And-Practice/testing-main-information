@@ -81,6 +81,13 @@
 
 
 
+## 
+* [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html)
+
+
+
+
+
 ## Common Testing Frameworks for Java.
 * [JUnit.]()
 * [TestNG.]()
